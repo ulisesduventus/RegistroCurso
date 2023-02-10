@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#992429</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#992429</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorRojoDuventus">#992429</color>
+    <color name="button_grey">#757575</color>
+    <color name="dark_grey">#424242</color>
+    <color name="medium_grey">#9E9E9E</color>
+    <color name="colorrojofinal">#C10606</color>
+    <color name="colorgriscuadro">#EDEEEF</color>
+    <color name="colorgrisrectangulo">#E0E1E3</color>
+    <color name="colorEmpty">#EDEDED</color>
+    <color name="colorGrisEvento">#F1F2F2</color>
+    <color name="successGreen">#00cc3d</color>
+    <color name="hintBlue">#1853c9</color>
+    <color name="colorTransBg">#26000000</color>
+    <color name="cursoType">#d50000</color>
+    <color name="clinicaType">#616161</color>
+    <color name="especialistaType">#37474f</color>
+    <color name="streamingType">#000000</color>
+    <color name="colorstreaming">#8b0000</color>
+
+    <color name="negro_semitransparente">#B2000000</color>
+    <color name="blanco_semitransparente">#99ffffff</color>
+    <color name="rojo_light">#f5cecf</color>
+
+
+    <color name="ticket_status_new">#FFB648</color>
+    <color name="ticket_status_open">#E34F32</color>
+    <color name="ticket_status_pending">#3091EC</color>
+    <color name="ticket_status_solved">#87929D</color>
+
+
+    <color name="save_color">#3897ba</color>
+
+</resources>

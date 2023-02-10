@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Registro Tecnico Evento</string>
+    <string name="buscar">Buscar</string>
+    <string name="registro_del_tecnico_o_cliente">REGISTRO DEL TECNICO O CLIENTE</string>
+    <string name="lista_de_eventos">LISTA DE EVENTOS</string>
+    <string name="lee_el_qr_code_del_tecnico">Lee el QR code del tecnico</string>
+    <string name="eventos_en_vivo">Eventos en vivo</string>
+    <string name="agregar_tecnico_o_cliente_sin_app">+ AGREGAR TECNICO O CLIENTE SIN APP</string>
+    <string name="agregar_asistencia_del_cliente_no_tecnico">+ AGREGAR ASISTENCIA DEL CLIENTE (NO TECNICO)</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido_paterno">Apellido Paterno</string>
+    <string name="apellido_materno">Apellido Materno</string>
+    <string name="celular">Celular</string>
+    <string name="correo_electr_nico">Correo electrónico</string>
+    <string name="tecnico">Tecnico</string>
+    <string name="cliente">Cliente</string>
+    <string name="volver">VOLVER</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="maximo">Maximo</string>
+    <string name="clientes">Clientes</string>
+    <string name="tecnicos">Tecnicos</string>
+    <string name="repetidos">Repetidos</string>
+    <string name="total">Total</string>
+    <string name="_0">0</string>
+    <string name="celulartxt">Celular</string>
+    <string name="correo_electr_nicotxt">Correo electrónico</string>
+    <string name="volvertxt">VOLVER</string>
+    <string name="registrartxt">REGISTRAR</string>
+    <string name="_0txt">0</string>
+    <string name="todo">TODO</string>
+    <string name="manual">Manual</string>
+</resources>
